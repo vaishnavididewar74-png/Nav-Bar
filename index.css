@@ -1,0 +1,17 @@
+
+	.a{ 
+	height:26px; 
+	width:60px;
+	background-color:black;
+	border-radius:10px;  
+	float:right; 
+	padding-top:1%;
+	margin-top:0.7%; 
+	padding-left:1.5%;
+	}
+			.b{ color:white;  font-size:13px; font-weight:bold; }
+					.c{  background-color:pink;  font-family: 'Open Sans', sans-serif;}
+							.d{ height:50px; width:1035px; background-color:skyblue; border-radius:10px; list-style-type:none; font-weight:bold;} 
+					.e{ padding-right:35%;  float:right; margin-top:1.5%;}
+	.g{ padding-right:4%;  float:right;  margin-top:1.5%;}
+							.j{margin-right:3%; margin-left:3%;}
